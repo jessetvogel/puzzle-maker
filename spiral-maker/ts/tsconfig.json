@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "module": "system",
+      "target": "es2017",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      "sourceMap": true,
+      "outDir": "../js/",
+      "outFile": "../js/script.js"
+    },
+    "include": [
+      "*.ts"
+    ],
+  }
+  
